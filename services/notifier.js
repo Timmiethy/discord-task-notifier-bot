@@ -14,7 +14,6 @@ const userMap = {
   "Nguyễn Hoàng Bảo Ngọc": "955822965562425415",
   "Mai Nguyen": "866604684147949578",
   "Dương Kiến Khải": "681697390788608001"
-  // Add more here as needed
 };
 
 function formatDate(dateStr) {
