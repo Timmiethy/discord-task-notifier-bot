@@ -3,7 +3,7 @@ import cron from "node-cron";
 
 // Map Notion assignee names to Discord user IDs
 const userMap = {
-  "TÂN LÊ THANH": "876405610365718548", // your Discord user ID
+  "TÂN LÊ THANH": "876405610365718548",
   "vophucphuonganh2003@gmail.com": "1025047537155055666",
   "Thanh Huy Nguyễn": "859077013359951893",
   "Ellie": "1249737780796588156",
