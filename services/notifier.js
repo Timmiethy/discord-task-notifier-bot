@@ -3,17 +3,6 @@ import cron from "node-cron";
 
 // Map Notion assignee names to Discord user IDs
 const userMap = {
-  "TÂN LÊ THANH": "876405610365718548",
-  "vophucphuonganh2003@gmail.com": "1025047537155055666",
-  "Thanh Huy Nguyễn": "859077013359951893",
-  "Ellie": "1249737780796588156",
-  "Minh Châu": "693996207063957505",
-  "Nguyên Doãn Bá Khánh": "581272006901628931",
-  "Nguyen Duc Bao Khôi": "876486447975256114",
-  "Lê Đức Kiên": "1371124864123146251",
-  "Nguyễn Hoàng Bảo Ngọc": "955822965562425415",
-  "Mai Nguyen": "866604684147949578",
-  "Dương Kiến Khải": "681697390788608001"
 };
 
 function formatDate(dateStr) {
