@@ -1,0 +1,16 @@
+{
+  "name": "team-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot integrated with Notion for task tracking and team notifications.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^17.2.3",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
